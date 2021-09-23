@@ -1,0 +1,3 @@
+FUEL Linear Regression model using sentiment analysis on each section. The different coefficients are the weights of the categories.
+Dr. Doof bot
+Do Products targeted at women use more adjectives?
