@@ -1,3 +1,23 @@
 FUEL Linear Regression model using sentiment analysis on each section. The different coefficients are the weights of the categories.
+    Seems more standard Linear Regression than linguistic
+
 Dr. Doof bot
+    Could be fun, but idk if I would publish it
+
 Do Products targeted at women use more adjectives?
+    POS tagging
+    But difference in means testing
+
+Word vectors of words changing over time, how words change meaning over time
+    Could be super interesting
+
+Something with Marshallese
+    POS tagging possible
+    Would be difficult to get consistent spellings, but maybe implement an edit distance
+
+Music as Language
+    Computer Vision System to recognize notes/chords
+    Then do language processing on predicting next notes from previous ones
+
+Clustering Algorithm to accurately group emotions or word vectors
+    Use of new clusters to produce different emotional classification system
