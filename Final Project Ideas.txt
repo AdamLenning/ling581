@@ -3,6 +3,7 @@ FUEL Linear Regression model using sentiment analysis on each section. The diffe
 
 Dr. Doof bot
     Could be fun, but idk if I would publish it
+    Autogregressive generation using RNN or something
 
 Do Products targeted at women use more adjectives?
     POS tagging
@@ -21,3 +22,5 @@ Music as Language
 
 Clustering Algorithm to accurately group emotions or word vectors
     Use of new clusters to produce different emotional classification system
+
+Multi-Word embeddings for lyrical representations
