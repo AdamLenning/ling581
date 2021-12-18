@@ -1,2 +1,5 @@
 venv/
 .ipynb_checkpoints/
+final_project/stsbenchmark/
+final_project/data/
+final_project/cc*
