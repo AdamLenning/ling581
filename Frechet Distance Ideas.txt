@@ -1,6 +1,9 @@
 Frechet distance
     Normalizations of sentence length?
     Translation > Does sentence structure easily map to a linear transformation?
+        Assumes that embeddings occupy similar spaces
+        Probably works best with word embeddings trained on translated corpora
+        But theoretically this could work on word embeddings trained on different corpora, as long as the algorithm learns the linear transformation
     Using vector structure to generate?
     Integrate Frechet Distance to Neural to learn when to trust the distance and when not to?
     Plagarism detection
