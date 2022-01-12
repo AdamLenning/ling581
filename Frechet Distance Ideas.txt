@@ -4,6 +4,7 @@ Frechet distance
         Assumes that embeddings occupy similar spaces
         Probably works best with word embeddings trained on translated corpora
         But theoretically this could work on word embeddings trained on different corpora, as long as the algorithm learns the linear transformation
+        Theoretically apply the transformation to the frechet distance somehow to determine the similarity between translations in a more accurate way.
     Using vector structure to generate?
     Integrate Frechet Distance to Neural to learn when to trust the distance and when not to?
     Plagarism detection
